@@ -1,2 +1,2 @@
 # AutoTrade
-Android app
+Android app for car showroom
